@@ -2,7 +2,7 @@ function User() {
 
   return (
     <>
-     aa
+     コンフリクト 練習
     </>
   )
 }
