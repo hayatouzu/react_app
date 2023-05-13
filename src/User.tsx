@@ -1,8 +1,9 @@
 function User() {
+  const A = "こんにちは";
 
   return (
     <>
-     aa
+     {A}
     </>
   )
 }
