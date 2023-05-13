@@ -8,6 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
+import User from './User.tsx';
 
 const router = createBrowserRouter([
   {
@@ -16,7 +17,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/user",
-    element:<div>Hello</div>
+    element:<User />,
   }
 ]);
 
