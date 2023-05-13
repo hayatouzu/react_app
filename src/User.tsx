@@ -1,8 +1,9 @@
 function User() {
+  const A = "こんにちは";
 
   return (
     <>
-     コンフリクト 練習
+     {A}
     </>
   )
 }
