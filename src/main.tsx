@@ -8,6 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
+import "./App.css";
 import User from './User.tsx';
 
 const router = createBrowserRouter([
